@@ -1,0 +1,17 @@
+body.konami {
+    background-color: #fff;
+    color: #fff;
+  }
+  
+  header.konami {
+    background-color: #336699;
+  }
+  
+  main.konami {
+    background-color: #336699;
+  }
+  
+  footer.konami {
+    background-color: #ff2063;
+    color: #000;
+  }
